@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="611.0" prefWidth="600.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Region prefHeight="92.0" prefWidth="600.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="81.0" layoutY="124.0" prefHeight="442.0" prefWidth="439.0" style="-fx-background-color: white; -fx-border-color: grey;" />
+      <Label layoutX="195.0" layoutY="28.0" text="Happen Hub">
+         <font>
+            <Font name="Candara" size="40.0" />
+         </font>
+      </Label>
+      <Label layoutX="192.0" layoutY="154.0" text="Hire an Event Planner">
+         <font>
+            <Font name="Candara" size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="244.0" layoutY="205.0" prefHeight="40.0" prefWidth="113.0" style="-fx-background-color: E9C7C6;" text=" Planner List">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Button layoutX="278.0" layoutY="252.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: black;" text="Close" />
+      <Region layoutX="89.0" layoutY="295.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="89.0" layoutY="335.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="89.0" layoutY="374.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="90.0" layoutY="412.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="89.0" layoutY="449.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="90.0" layoutY="486.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Region layoutX="89.0" layoutY="522.0" prefHeight="27.0" prefWidth="422.0" style="-fx-background-color: F7F4EB;" />
+      <Button layoutX="428.0" layoutY="297.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="430.0" layoutY="338.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font name="Candara" size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="430.0" layoutY="377.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font name="Candara" size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="428.0" layoutY="414.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="430.0" layoutY="452.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font name="Candara" size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="430.0" layoutY="489.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Open details">
+         <font>
+            <Font name="Candara" size="10.0" />
+         </font>
+      </Button>
+      <Button layoutX="430.0" layoutY="525.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: black;" text="Open details">
+         <font>
+            <Font name="Candara" size="10.0" />
+         </font>
+      </Button>
+      <Label layoutX="101.0" layoutY="299.0" text="Event Planner 1">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="100.0" layoutY="339.0" text="Event Planner 2">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="98.0" layoutY="375.0" text="Event Planner 3">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="99.0" layoutY="416.0" text="Event Planner 4">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="100.0" layoutY="453.0" text="Event Planner 5">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="99.0" layoutY="490.0" text="Event Planner 6">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="100.0" layoutY="526.0" text="Event Planner 7">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

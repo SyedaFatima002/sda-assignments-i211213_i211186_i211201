@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="697.0" prefWidth="600.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Region prefHeight="98.0" prefWidth="600.0" style="-fx-background-color: F7F4EB;" />
+      <Label layoutX="195.0" layoutY="18.0" text="Happen Hub">
+         <font>
+            <Font name="Candara" size="40.0" />
+         </font>
+      </Label>
+      <Label layoutX="212.0" layoutY="66.0" text="Hire an Event Planner">
+         <font>
+            <Font name="Candara" size="20.0" />
+         </font>
+      </Label>
+      <Label layoutX="207.0" layoutY="132.0" text="Event Planner 1">
+         <font>
+            <Font name="Candara" size="30.0" />
+         </font>
+      </Label>
+      <Button layoutX="522.0" layoutY="65.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Logout" />
+      <Button layoutX="23.0" layoutY="105.0" mnemonicParsing="false" style="-fx-background-color: white; -fx-border-color: grey;" text="Back" />
+      <Region layoutX="68.0" layoutY="199.0" prefHeight="383.0" prefWidth="471.0" style="-fx-background-color: white; -fx-border-color: grey;" />
+      <Label layoutX="232.0" layoutY="237.0" text="Name:              John Doe" textAlignment="RIGHT">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="143.0" layoutY="270.0" text="Event Planner Since:                 27/12/23">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="194.0" layoutY="302.0" text="Expertise In:              Conference Meeting">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="163.0" layoutY="340.0" text="Events Managed:                 29" textAlignment="RIGHT">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="164.0" layoutY="377.0" text="Contact Number:                +92 331 9876785" textAlignment="RIGHT">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="181.0" layoutY="414.0" text="Contact Email:                 john.doe@gmail.com">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="199.0" layoutY="449.0" text="Experience:">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Label>
+      <Text layoutX="339.0" layoutY="466.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. " wrappingWidth="154.505859375">
+         <font>
+            <Font name="Candara" size="15.0" />
+         </font>
+      </Text>
+      <Button layoutX="249.0" layoutY="612.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="113.0" style="-fx-background-color: C05754;" text="Book Planner">
+         <font>
+            <Font name="Candara" size="16.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
